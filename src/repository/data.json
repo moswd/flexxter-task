@@ -1,0 +1,85 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Project 1",
+            "tasks": [
+                {
+                    "id": 1,
+                    "title": "Paint the wall",
+                    "description": "Please paint all the walls in white color",
+                    "checked": true
+                },
+
+                {
+                    "id": 2,
+                    "title": "Clean the site",
+                    "description": "Please make sure you cleaned the construction site before leaving",
+                    "checked": false
+                },
+
+                {
+                    "id": 3,
+                    "title": "Another task",
+                    "description": "Some description for the task",
+                    "checked": false
+                },
+
+                {
+                    "id": 4,
+                    "title": "Old one",
+                    "description": "A task from the past!",
+                    "checked": true
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "name": "Project 2",
+            "tasks": [
+                {
+                    "id": 1,
+                    "title": "Project 2 - Paint the wall",
+                    "description": "Please paint all the walls in white color",
+                    "checked": true
+                },
+
+                {
+                    "id": 2,
+                    "title": "Project 2 - Clean the site",
+                    "description": "Please make sure you cleaned the construction site before leaving",
+                    "checked": false
+                },
+
+                {
+                    "id": 3,
+                    "title": "Project 2 - Another task",
+                    "description": "Some description for the task",
+                    "checked": false
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "name": "Project 3",
+            "tasks": [
+                {
+                    "id": 1,
+                    "title": "Project 3 - Paint the wall",
+                    "description": "Please paint all the walls in white color",
+                    "checked": true
+                }, 
+
+                {
+                    "id": 2,
+                    "title": "Project 3 - Something",
+                    "description": "Oh Oh",
+                    "checked": true
+                }
+            ]
+        }
+ 
+    ]
+}
